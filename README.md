@@ -13,7 +13,7 @@ Technologies Used:
 - C# with Windows Forms for the interface.
 - Dynamic rendering and animation for the falling "Matrix code" effect.
   # How to Run:
-1. git clone https://github.com/your-username/matrix-pill-selector.git
+1. Download all files
 2. Open the solution (.sln) file in Visual Studio.
 3. Build and run the project.
    
